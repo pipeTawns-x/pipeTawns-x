@@ -2,14 +2,14 @@
 
 # ¡Hola! Soy Felipe Torres
 
-Desarrollador Full-Stack Jr y desarrollador agente: construyo productos reales orquestando agentes de IA.
+Desarrollador Full-Stack Jr agentico: construyo productos reales orquestando agentes de IA.
 
 <img src="baner_github.png" width="100%" alt="Felipe Torres en la montaña — afición real al senderismo">
 
 ## Sobre mí
 
 - Vivo en San Luis Potosí, México.
-- Estudiante a Desarrollador Fullstack Developer.
+- Estudiante a Desarrollador Fullstack.
 - Desarrollo agéntico utilizando las SDD y el uso de multiagentes.
 - Aprendo de manera autodidacta subiendo todo lo bueno e incluso lo malo de mi proceso.
 
