@@ -4,25 +4,26 @@
 
 Desarrollador Full-Stack Jr y desarrollador agente: construyo productos reales orquestando agentes de IA.
 
-<img src="banner.jpg" width="100%" alt="Felipe Torres en la montaña — afición real al senderismo">
+<img src="baner_github.png" width="100%" alt="Felipe Torres en la montaña — afición real al senderismo">
 
 ## Sobre mí
 
 - Vivo en San Luis Potosí, México.
-- Estudiante del curso **Programador Front-end** de EBAC — estoy en el proyecto final.
-- Método de trabajo con agentes de IA: especifico con spec-driven development, los agentes ejecutan, yo verifico, pruebo y despliego.
-- Aprendo en público: cada proyecto queda documentado en su repo, con decisiones y errores incluidos.
+- Estudiante a Desarrollador Fullstack Developer.
+- Desarrollo agéntico utilizando las SDD y el uso de multiagentes.
+- Aprendo de manera autodidacta subiendo todo lo bueno e incluso lo malo de mi proceso.
 
 ## 🥩 Proyecto destacado — Carni-mvp
 
-[<img src="https://raw.githubusercontent.com/pipeTawns-x/Landingpages-Carni.pwa/main/docs/screenshots/home.jpg" width="600" alt="Captura real del deploy de Carni-mvp, la tienda de la Carnicería El Señor de La Misericordia">](https://pipetawns-x.github.io/Landingpages-Carni.pwa/)
+Un proyecto de virtualización de negocio: llevo un comercio real al mundo digital. El cliente recorre la tienda en línea, arma su pedido y elige entre entrega a domicilio o recogida en el local.
 
-- **Tienda real de la Carnicería El Señor de La Misericordia**: catálogo por categorías y carrito con delivery o pickup, de verdad en producción.
-- **PWA con soporte offline**: instalable en el teléfono de cualquier cliente y navegable sin conexión.
-- **Asistente virtual que entiende español**: acompaña la compra en el idioma del cliente, con historial persistente.
-- **Registro seguro en Supabase con RLS**: cuentas con roles, políticas por fila y pedidos transaccionales.
+[<img src="https://raw.githubusercontent.com/pipeTawns-x/Landingpages-Carni.pwa/main/docs/screenshots/home.jpg" width="600" alt="Captura del proyecto desplegado en línea">](https://pipetawns-x.github.io/Landingpages-Carni.pwa/)
 
-Repo: [pipeTawns-x/Landingpages-Carni.pwa](https://github.com/pipeTawns-x/Landingpages-Carni.pwa) · Demo: [pipetawns-x.github.io/Landingpages-Carni.pwa](https://pipetawns-x.github.io/Landingpages-Carni.pwa/)
+- **Funciona en el celular como una app**: el comercio queda siempre a mano del cliente, incluso sin conexión.
+- **Un asistente virtual acompaña la compra**: responde dudas en español y ayuda al cliente durante todo el recorrido.
+- **Cuentas con roles**: cada persona — cliente o administración — ve solo la información que le corresponde.
+
+**Demo en vivo:** [pipetawns-x.github.io/Landingpages-Carni.pwa](https://pipetawns-x.github.io/Landingpages-Carni.pwa/)
 
 ## 🤖 Cómo trabajo
 
@@ -41,12 +42,14 @@ Repo: [pipeTawns-x/Landingpages-Carni.pwa](https://github.com/pipeTawns-x/Landin
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pipeTawns-x&layout=compact&theme=dark&hide_border=true&locale=es)
 
+![Racha de contribuciones](https://streak-stats.demolab.com/?user=pipeTawns-x&theme=dark&hide_border=true)
+
 ## 🗂️ Otros proyectos
 
 | Proyecto | Descripción |
 |---|---|
 | **e-comerce** — [repo](https://github.com/pipeTawns-x/e-comerce) · [demo](https://pipetawns-x.github.io/e-comerce/) | Primer e-commerce completo (FrayLE Shop): catálogo, carrito y checkout. La base sobre la que creció Carni-mvp. |
-| **hellodjango** — [repo](https://github.com/pipeTawns-x/hellodjango) | Primer contacto con Python y Django sobre Docker. Aprendizaje backend documentado en el README del repo. |
+| **Vestabill** | Web SaaS privado 🔒 — agente digital para automatizar un negocio (proyecto en desarrollo). |
 
 ## 📬 Contacto
 
